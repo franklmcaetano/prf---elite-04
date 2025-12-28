@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html lang="pt">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="theme-color" content="#05080f" />
+    <title>PRF Elite</title>
+  </head>
+  <body style="margin: 0; background-color: #05080f; color: white;">
+    <noscript>Necessita de ativar o JavaScript.</noscript>
+    <div id="root"></div>
+  </body>
+</html>
+
+
